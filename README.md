@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 Software Engineer transforming chaos into intelligence—from messy data to production-ready AI<br>
 I'm Moulica, passionate about the full data-to-AI pipeline: wrangling messy real-world data, building robust data engineering solutions, developing ML models, fine-tuning LLMs, and building intelligent agentic systems. I thrive on turning raw, unstructured information into actionable insights and intelligent systems.<br><br>
 **What I do:**<br>
