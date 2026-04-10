@@ -18,9 +18,20 @@ I'm Moulica, passionate about the full data-to-AI pipeline: wrangling messy real
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Moulica5374&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Moulica5374&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moulica5374&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-stats-one-nu.vercel.app/api?username=Moulica5374&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://readme-stats-one-nu.vercel.app/api/top-langs/?username=Moulica5374&theme=dark&hide_border=true&layout=compact" width="48%" />
+</p>
+
+# 🔥 Streak Stats:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Moulica5374&theme=dark&hide_border=true" />
+</p>
+
+# 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Moulica5374&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
